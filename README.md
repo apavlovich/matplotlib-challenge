@@ -2,11 +2,13 @@
 
 <h1>Pymaceuticals</h1>
 
->Observations
+<h2>Observations</h2>
+
 1. The correlation coefficient between mouse weight and tumor volume is 0.84. This is a high positive correlation so we can infer that the heavier the mouse, the larger their tumor will be. 
 2. The R^2 value is 0.709, indicating that that around 70% of the data fit the regression model of y = 0.74 - 10.15. Therefore, this is a pretty reliable model for predicting values.
 3.  Capomulin and Ramicane seem to be most effective at reducing the size of tumors. They had the lowest median tumor sizes and even upper outliers were smaller than the two next best drugs Infubinol and Ceftamin.
 
+<h2>Assignment</h2>
 
 >Check for any duplicates
 - There was one duplicate mouse (ID: g989)
